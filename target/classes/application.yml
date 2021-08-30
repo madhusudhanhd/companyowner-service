@@ -1,0 +1,7 @@
+server:
+   port: 9002
+   
+spring:
+   jpa:
+      generate-ddl: true
+      show-sql: true
